@@ -6,7 +6,7 @@ Highly customizable `search` bar.
 
 | Android |
 | ------------- |
-| ![Android](searchbar.gif){:height="700px" width="400px"}|
+| ![Android](searchbar.gif){:height="300px" width="100px"}|
 
 
 
