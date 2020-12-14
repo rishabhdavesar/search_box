@@ -1,11 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'example.dart';
-
-void main() {
-  runApp(new MaterialApp(home: Search()));
-}
-
 class SearchBar extends StatefulWidget {
   SearchBar(
       {Key key,

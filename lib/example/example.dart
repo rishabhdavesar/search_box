@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'main.dart';
+import '../searchBox.dart';
+
+void main() {
+  runApp(new MaterialApp(home: Search()));
+}
 
 class Search extends StatefulWidget {
   @override
