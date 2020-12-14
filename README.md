@@ -66,13 +66,20 @@ Here's a simple example of `Search Bar`'s:
 
 Here's a list of all `SearchAppBar` parameters and what they do:
 
-`height`: Height of the search bar.
+`height` : Height of the search bar.
+
 `bgcolor` : Background Color of the search bar.
+
 `radius` : Circular radius of the search bar.
+
 `buttonStyle` : Text Style 
+
 `hintText` : Hint Text
+
 `icon` : Suffix Icon for Text field
+
 `iconColor` : Suffix Icon Color for Text field
+
 `onSubmitted` : onSubmitted Function 
 
 
