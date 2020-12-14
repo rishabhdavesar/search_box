@@ -6,7 +6,7 @@ Highly customizable `search` bar.
 
 | Android |
 | ------------- |
-| ![Android](searchbar.gif) |
+| ![Android]<img src="https://github.com/favicon.ico" width="48"> |
 
 
 
